@@ -13,7 +13,7 @@
 - 支持屏幕取词功能
 - 支持个人词频字典功能
 
-![flyrefresh](https://github.com/birdcopy/Public-Share-Resoures/blob/master/%E5%BD%95%E8%AF%BE%E8%AF%B4%E6%98%8E/0.png)
+![flyrefresh](https://github.com/birdcopy/Public-Share-Resoures/blob/master/recording/0.png)
 
 
 
