@@ -30,7 +30,6 @@
 
 ## 第三步 上传当前页面音频
 
-![4](https://github.com/birdcopy/Public-Share-Resoures/blob/master/recording/4.jpg)
 ![5](https://github.com/birdcopy/Public-Share-Resoures/blob/master/recording/5.jpg)
 ![6](https://github.com/birdcopy/Public-Share-Resoures/blob/master/recording/6.jpg)
 
@@ -38,3 +37,12 @@
 
 
 ## 第四步 预览整个课件
+
+![4](https://github.com/birdcopy/Public-Share-Resoures/blob/master/recording/7.jpg)
+
+点击“课件预览”后，
+
+
+![4](https://github.com/birdcopy/Public-Share-Resoures/blob/master/recording/7.jpg)
+
+预览整个课程视频后，可以提交管理员进行课程审核。
